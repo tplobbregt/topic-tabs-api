@@ -1,0 +1,19 @@
+{
+  "name": "topic-tabs-api",
+  "version": "1.0.0",
+  "description": "Fetches new image information from Pexels API",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
