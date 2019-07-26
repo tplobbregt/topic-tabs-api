@@ -4,7 +4,7 @@
 
 <h1 align="center">Topic Tabs API</h1>
 <p align="center">
-API to fetch image information for [Topic Tabs](https://github.com/tplobbregt/topic-tabs) browser extension.
+  API to fetch image information for <a href="https://github.com/tplobbregt/topic-tabs">Topic Tabs</a> browser extension.
 </p> 
 <div align="center">
   
